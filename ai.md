@@ -74,3 +74,162 @@
 - [ ] [Probabilistic Graphical Models: Principles and Techniques](https://mitpress.mit.edu/books/probabilistic-graphical-models)
 - [ ] [Foundations of Machine Learning](https://mitpress.mit.edu/9780262039406/foundations-of-machine-learning/)
 - [ ] Probably Approximately Correct
+
+# Deep Learning
+
+## Tutorials
+
+- [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+- [ ] [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
+- [ ] [Stanford CS 230 Cheatsheets](https://github.com/afshinea/stanford-cs-230-deep-learning)
+
+## Courses
+
+- [x] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [ ] [Stanford CS230: Deep Learning](https://cs230.stanford.edu/lecture/)
+- [ ] [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+- [ ] [fast.ai: Practical Deep Learning for Coders](https://course.fast.ai/)
+- [ ] [CMU 10-414/714: Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
+- [ ] [DeepMind x UCL: The Deep Learning Lecture](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020)
+
+## Books
+
+- [ ] [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition)
+- [ ] [Deep Learning](https://www.deeplearningbook.org/)
+- [ ] [Dive into Deep Learning](https://d2l.ai/)
+- [ ] [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [ ] [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/)
+
+# Computer Vision
+
+## Courses
+
+- [ ] [Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.github.io/)
+
+## Books
+
+* [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
+* [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
+
+## Tools
+
+* [OpenCV](https://opencv.org/)
+* [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR)
+* [Teachable Machine](https://teachablemachine.withgoogle.com/)
+
+## Libraries
+
+* [TorchVision](https://github.com/pytorch/vision)
+* [scikit-image](https://scikit-image.org/)
+* [ImageAI](https://github.com/OlafenwaMoses/ImageAI)
+* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+
+## Projects
+
+* [video2x](https://github.com/k4yt3x/video2x)
+* [PaintsChainer](https://github.com/pfnet/PaintsChainer)
+
+# Natual Language Processing
+
+## Tutorials
+
+- [ ] [Scikit-learn: Text Feature Extraction](https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction)
+- [ ] [NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
+
+## Courses
+
+- [ ] [Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+- [ ] [Stanford CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+
+## Books
+
+* [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
+* [Speech and Language Processing](https://home.cs.colorado.edu/~martin/slp.html)
+* [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
+
+## Tools
+
+* [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+
+## Projects
+
+* [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
+
+# Reinforcement Learning
+
+## Tutorials
+
+- [ ] [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
+
+## Courses
+
+- [ ] [UC Berkeley CS285/294 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [ ] [DeepMind x UCL: Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+- [ ] [Stanford CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
+
+## Books
+
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+* [蘑菇书EasyRL](https://datawhalechina.github.io/easy-rl)
+
+## Methods
+
+* Evolutionary Algorithm
+  * Genetic Algorithm
+  * Neuroevolution
+  * Ant Colony Optimization
+
+# Large Language Models
+
+## Tutorials
+
+- [ ] [Hugging Face: NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
+- [ ] [Hugging Face: Conceptual Guides of Transformer](https://huggingface.co/docs/transformers/philosophy)
+- [ ] [Microsoft: Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners)
+- [ ] [Cohere: LLM University - Large Language Models](https://cohere.com/llmu)
+- [ ] [LLM101n](https://github.com/karpathy/LLM101n)
+
+## Courses
+
+- [ ] [Coursera: Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
+- [x] [DeepLearning.AI: ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [ ] [DeepLearning.AI: Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+- [ ] [Coursera: Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
+- [ ] [Stanford CS25: Transformers](https://web.stanford.edu/class/cs25/)
+- [ ] [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2023/)
+- [ ] [DeepLearning.AI: LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+
+## Books
+
+- [ ] [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
+
+## Libraries
+
+* [Trax](https://github.com/google/trax)
+* [AlpacaFarm](https://github.com/tatsu-lab/alpaca_farm)
+
+## Projects
+
+* [nanoGPT](https://github.com/karpathy/nanoGPT)
+* [minGPT](https://github.com/karpathy/minGPT)
+
+# Papers
+
+* [深度学习论文精读](https://github.com/mli/paper-reading)
+* [StoryGAN](https://paperswithcode.com/paper/storygan-a-sequential-conditional-gan-for)
+
+# Datasets
+
+* [Kaggle: Datasets](https://www.kaggle.com/datasets)
+* [Papers With Code: Datasets](https://paperswithcode.com/datasets)
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
+* [Hugging Face: Datasets](https://huggingface.co/datasets)
+
+# Open Source Models
+
+* [Kaggle: Models](https://www.kaggle.com/models)
+* [Hugging Face: Models](https://huggingface.co/models)
+* [Pytorch Hub](https://pytorch.org/hub/)
+* [Tensorflow Hub](https://tfhub.dev/)
+* [TensorFlow Model Garden](https://github.com/tensorflow/models)
