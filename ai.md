@@ -173,13 +173,6 @@
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
 * [蘑菇书EasyRL](https://datawhalechina.github.io/easy-rl)
 
-## Methods
-
-* Evolutionary Algorithm
-  * Genetic Algorithm
-  * Neuroevolution
-  * Ant Colony Optimization
-
 # Large Language Models
 
 ## Tutorials
