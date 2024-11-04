@@ -4,6 +4,8 @@ I’m currently working as a software engineer 👨‍💻 at Amazon. I'm active
 
 In the future, I plan to dive into some highly recommended resources to further broaden my perspective and deepen my expertise in areas I’m passionate about.
 
+Feel free to connect and share. I'm always open to learning and collaborating with fellow developers! 🚀
+
 <!--
 **vitaminac/vitaminac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
