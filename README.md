@@ -2,7 +2,7 @@ Hi everyone 👋!
 
 I’m currently working as a software engineer 👨‍💻 at Amazon. I'm actively developing my skills to become an even better programmer 💪. Over the past few years, I’ve earned [several certifications](https://www.linkedin.com/in/shuxig/details/certifications/), and I'm continuously expanding my knowledge in the field.
 
-In the future, I plan to dive into some [highly recommended resources](resources.md) to further broaden my perspective and deepen my expertise in areas I’m passionate about.
+In the future, I plan to dive into some [highly recommended resources](resources.md) to further broaden my perspective and deepen my expertise in areas I’m passionate about. Lately, I’ve been focused on [studying artificial intelligence](ai.md) and exploring its potential to transform various industries.
 
 Feel free to connect and share. I'm always open to learning and collaborating with fellow developers! 🚀
 
