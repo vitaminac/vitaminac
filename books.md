@@ -3,6 +3,7 @@
 - [x] 白帽子讲Web安全
 - [ ] What Is Mathematics? An Elementary Approach to Ideas and Methods
 - [x] 浪潮之巅
+- [x] 三体
 - [x] The Little Prince 
 
 # Economics
@@ -11,10 +12,12 @@
 - [ ] Macroeconomics - Mankiw
 - [x] 置身事内
 - [x] 大国大城
+- [x] Rich Dad Poor Dad
 
 # Physics
 
 - [ ] [Course of Theoretical Physics](https://en.wikipedia.org/wiki/Course_of_Theoretical_Physics)
+- [x] 上帝掷骰子吗？量子物理史话
 - [x] One, Two, Three...Infinity
 - [x] A Brief History of Time
 
