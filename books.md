@@ -3,6 +3,7 @@
 - [x] 白帽子讲Web安全
 - [ ] What Is Mathematics? An Elementary Approach to Ideas and Methods
 - [x] 浪潮之巅
+- [x] The Little Prince 
 
 # Economics
 
@@ -12,3 +13,11 @@
 # Physics
 
 - [ ] [Course of Theoretical Physics](https://en.wikipedia.org/wiki/Course_of_Theoretical_Physics)
+- [x] One, Two, Three...Infinity
+- [x] A Brief History of Time
+
+# History
+
+- [x] 明朝那些事
+- [x] Sapiens: A Brief History of Humankind
+- [x] Sophie's World
