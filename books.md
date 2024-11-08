@@ -2,9 +2,6 @@
 - [x] 数学之美
 - [x] 白帽子讲Web安全
 - [ ] What Is Mathematics? An Elementary Approach to Ideas and Methods
-- [x] 浪潮之巅
-- [x] 三体
-- [x] The Little Prince 
 
 # Economics
 
@@ -24,5 +21,13 @@
 # History
 
 - [x] 明朝那些事
+- [x] 浪潮之巅
 - [x] Sapiens: A Brief History of Humankind
 - [x] Sophie's World
+
+# Novel
+
+- [x] 三体
+- [x] 太白金星有点烦
+- [x] 长安的荔枝
+- [x] The Little Prince
