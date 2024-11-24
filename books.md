@@ -27,7 +27,7 @@
 
 # Novel
 
-- [x] 三体
+- [x] [Remembrance of Earth's Past Trilogy](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past)
 - [x] 太白金星有点烦
 - [x] 长安的荔枝
 - [x] The Little Prince
