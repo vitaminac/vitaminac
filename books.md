@@ -1,7 +1,11 @@
 - [x] Code: The Hidden Language of Computer Hardware and Software
-- [x] 数学之美
 - [x] 白帽子讲Web安全
+
+# Mathematics
+
 - [ ] What Is Mathematics? An Elementary Approach to Ideas and Methods
+- [x] 数学之美
+- [ ] [Introduction to Operations Research](https://www.mheducation.com/highered/product/Introduction-to-Operations-Research-Hillier.html)
 
 # Economics
 
