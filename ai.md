@@ -181,6 +181,10 @@
 
 # Large Language Models
 
+## Papers
+
+- [x] Attention Is All You Need
+
 ## Tutorials
 
 - [ ] [Hugging Face: NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
