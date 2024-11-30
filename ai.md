@@ -181,6 +181,9 @@
 
 - [x] Attention Is All You Need
   - [x] [Transformer论文逐段精读](https://youtu.be/nzqlFIcCSWQ)
+- [ ] [The Llama 3 Herd of Models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
+  - [x] [Llama 3.1论文精读 · 1. 导言](https://www.youtube.com/watch?v=-PztagF3wQE)
+  - [ ] [Llama 3.1论文精读 · 2. 预训练数据](https://www.youtube.com/watch?v=wXFr3zIE8FM)
 
 ## Tutorials
 
