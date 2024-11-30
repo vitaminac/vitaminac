@@ -180,6 +180,7 @@
 ## Papers
 
 - [x] Attention Is All You Need
+  - [x] [Transformer论文逐段精读](https://youtu.be/nzqlFIcCSWQ)
 
 ## Tutorials
 
@@ -216,7 +217,6 @@
 # Papers
 
 * [深度学习论文精读](https://github.com/mli/paper-reading)
-* [StoryGAN](https://paperswithcode.com/paper/storygan-a-sequential-conditional-gan-for)
 
 # Datasets
 
