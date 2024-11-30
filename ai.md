@@ -154,10 +154,6 @@
 * [Speech and Language Processing](https://home.cs.colorado.edu/~martin/slp.html)
 * [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
 
-## Tools
-
-* [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-
 ## Projects
 
 * [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
