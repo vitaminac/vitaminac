@@ -17,6 +17,7 @@
 
 # Introduction
 
+- [x] Code: The Hidden Language of Computer Hardware and Software
 - [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [ ] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 - [ ] [Google Site Reliability Engineering Resources](https://sre.google/)
@@ -65,6 +66,10 @@
 - [x] 剑指Offer: 名企面试官精讲典型编程题
 - [ ] [Cracking the Coding Interview 6th: 189 programming interview questions and answers](https://www.crackingthecodinginterview.com)
 - [ ] 编程之美
+
+# Security
+
+- [x] 白帽子讲Web安全
 
 # Network
 
