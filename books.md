@@ -1,6 +1,3 @@
-- [x] Code: The Hidden Language of Computer Hardware and Software
-- [x] 白帽子讲Web安全
-
 # Mathematics
 
 - [ ] What Is Mathematics? An Elementary Approach to Ideas and Methods
