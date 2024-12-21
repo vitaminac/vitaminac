@@ -13,6 +13,7 @@
 
 # Physics
 
+- [ ] [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 - [ ] [Course of Theoretical Physics](https://en.wikipedia.org/wiki/Course_of_Theoretical_Physics)
 - [x] 上帝掷骰子吗？量子物理史话
 - [x] One, Two, Three...Infinity
