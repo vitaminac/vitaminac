@@ -14,6 +14,7 @@
 # Physics
 
 - [ ] [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+- [ ] [University Physics with Modern Physics](https://en.wikipedia.org/wiki/University_Physics)
 - [ ] [Course of Theoretical Physics](https://en.wikipedia.org/wiki/Course_of_Theoretical_Physics)
 - [x] 上帝掷骰子吗？量子物理史话
 - [x] One, Two, Three...Infinity
