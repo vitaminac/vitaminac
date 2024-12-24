@@ -13,6 +13,7 @@
 
 # Physics
 
+- [ ] [The Theoretical Minimum](https://theoreticalminimum.com/)
 - [ ] [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 - [ ] [University Physics with Modern Physics](https://en.wikipedia.org/wiki/University_Physics)
 - [ ] [Course of Theoretical Physics](https://en.wikipedia.org/wiki/Course_of_Theoretical_Physics)
