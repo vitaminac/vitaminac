@@ -214,8 +214,7 @@
 
 ## Projects
 
-* [nanoGPT](https://github.com/karpathy/nanoGPT)
-* [minGPT](https://github.com/karpathy/minGPT)
+* [LLM实战](https://github.com/liguodongiot/llm-action)
 
 # Papers
 
