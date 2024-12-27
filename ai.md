@@ -221,13 +221,6 @@
 
 * [深度学习论文精读](https://github.com/mli/paper-reading)
 
-# Datasets
-
-* [Kaggle: Datasets](https://www.kaggle.com/datasets)
-* [Papers With Code: Datasets](https://paperswithcode.com/datasets)
-* [Google Dataset Search](https://datasetsearch.research.google.com/)
-* [Hugging Face: Datasets](https://huggingface.co/datasets)
-
 # Open Source Models
 
 * [Kaggle: Models](https://www.kaggle.com/models)
