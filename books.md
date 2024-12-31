@@ -26,6 +26,7 @@
 - [x] 明朝那些事
 - [x] 浪潮之巅
 - [x] 邓小平时代
+- [x] 筚路维艰
 - [x] Sapiens: A Brief History of Humankind
 - [x] Sophie's World
 
