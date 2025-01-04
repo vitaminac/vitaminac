@@ -118,20 +118,6 @@
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 * [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
 
-## Tools
-
-* [OpenCV](https://opencv.org/)
-* [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
-* [EasyOCR](https://github.com/JaidedAI/EasyOCR)
-* [Teachable Machine](https://teachablemachine.withgoogle.com/)
-
-## Libraries
-
-* [TorchVision](https://github.com/pytorch/vision)
-* [scikit-image](https://scikit-image.org/)
-* [ImageAI](https://github.com/OlafenwaMoses/ImageAI)
-* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-
 ## Projects
 
 * [video2x](https://github.com/k4yt3x/video2x)
