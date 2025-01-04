@@ -86,7 +86,7 @@
 
 ## Tutorials
 
-- [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+- [x] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 - [ ] [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
 - [ ] [Stanford CS 230 Cheatsheets](https://github.com/afshinea/stanford-cs-230-deep-learning)
 
