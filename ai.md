@@ -194,11 +194,3 @@
 ## Projects
 
 * [LLM实战](https://github.com/liguodongiot/llm-action)
-
-# Open Source Models
-
-* [Kaggle: Models](https://www.kaggle.com/models)
-* [Hugging Face: Models](https://huggingface.co/models)
-* [Pytorch Hub](https://pytorch.org/hub/)
-* [Tensorflow Hub](https://tfhub.dev/)
-* [TensorFlow Model Garden](https://github.com/tensorflow/models)
