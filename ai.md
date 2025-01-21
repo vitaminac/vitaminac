@@ -186,11 +186,6 @@
 
 - [ ] [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
 
-## Libraries
-
-* [Trax](https://github.com/google/trax)
-* [AlpacaFarm](https://github.com/tatsu-lab/alpaca_farm)
-
 ## Projects
 
 * [LLM实战](https://github.com/liguodongiot/llm-action)
