@@ -163,7 +163,6 @@
 
 - [ ] [Hugging Face: NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
 - [ ] [Hugging Face: Conceptual Guides of Transformer](https://huggingface.co/docs/transformers/philosophy)
-- [ ] [Microsoft: Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners)
 - [ ] [Cohere: LLM University - Large Language Models](https://cohere.com/llmu)
 - [ ] [LLM101n](https://github.com/karpathy/LLM101n)
 
