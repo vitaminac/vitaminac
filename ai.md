@@ -38,10 +38,6 @@
 
 # Artificial Intelligence
 
-## Tutorials
-
-- [ ] [Microsoft: Artificial Intelligence for Beginners - A Curriculum](https://microsoft.github.io/AI-For-Beginners/)
-
 ## Courses
 
 - [x] [Coursera: AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)
@@ -59,7 +55,6 @@
 - [x] [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [x] [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 - [x] [Kaggle: Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
-- [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [ ] [Stanford CS 229 Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
 ## Courses
