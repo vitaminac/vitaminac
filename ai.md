@@ -94,14 +94,6 @@
 - [ ] [CMU 10-414/714: Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
 - [ ] [DeepMind x UCL: The Deep Learning Lecture](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020)
 
-## Books
-
-- [ ] [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition)
-- [ ] [Deep Learning](https://www.deeplearningbook.org/)
-- [ ] [Dive into Deep Learning](https://d2l.ai/)
-- [ ] [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
-- [ ] [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/)
-
 # Computer Vision
 
 ## Courses
