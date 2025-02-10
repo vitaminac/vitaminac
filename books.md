@@ -5,8 +5,6 @@
 
 # Economics
 
-- [ ] Principles of Economics - Mankiw
-- [ ] Macroeconomics - Mankiw
 - [x] 置身事内
 - [x] 大国大城
 - [x] Rich Dad Poor Dad
