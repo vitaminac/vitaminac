@@ -4,7 +4,7 @@ I’m currently working as a software engineer 👨‍💻 at Amazon. I'm active
 
 In the future, I plan to dive into some [highly recommended resources](resources.md) to further broaden my perspective and deepen my expertise in areas I’m passionate about. Lately, I’ve been focused on [studying artificial intelligence](ai.md) and exploring its potential to transform various industries.
 
-Beyond programming, I’m passionate about reading 📖, particularly in the areas of philosophy, physics, history and economics. Exploring [books](books.md) in these fields brings fresh insights that inspire my personal and professional growth.
+Beyond programming, I’m passionate about reading 📖, particularly in the areas of philosophy, physics, history and economics. Exploring books in these fields brings fresh insights that inspire my personal and professional growth.
 
 Feel free to connect and share book recommendations, AI resources, or other insights. I'm always open to learning and collaborating with fellow developers! 🚀
 
