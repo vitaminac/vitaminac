@@ -29,8 +29,6 @@
 
 ## Books
 
-- [ ] [An Introduction to Statistical Learning](https://www.statlearning.com/)
-- [ ] [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [ ] [统计学习方法](https://book.douban.com/subject/33437381/)
 - [ ] [The Nature of Statistical Learning Theory](https://www.springer.com/gp/book/9780387987804)
 - [ ] [Statistical Learning Theory](https://www.wiley.com/en-us/Statistical+Learning+Theory-p-9780471030034)
