@@ -74,4 +74,5 @@
 # Network
 
 - [ ] [Computer Networking: a Top Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)
+- [ ] [Computer Networks](https://computernetworksbook.com/)
 - [ ] [TCP/IP Illustrated](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
