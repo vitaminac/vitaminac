@@ -17,7 +17,6 @@
 
 # Introduction
 
-- [x] Code: The Hidden Language of Computer Hardware and Software
 - [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [ ] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 - [ ] [Google Site Reliability Engineering Resources](https://sre.google/)
