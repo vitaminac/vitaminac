@@ -140,7 +140,6 @@
 
 ## Books
 
-* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
 * [蘑菇书EasyRL](https://datawhalechina.github.io/easy-rl)
 
 # Large Language Models
