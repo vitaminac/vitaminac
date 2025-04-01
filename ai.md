@@ -42,10 +42,6 @@
 - [ ] [UC Berkeley CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188)
 - [ ] [Stanford CS221: Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/)
 
-## Books
-
-- [ ] [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
-
 # Machine Learning
 
 ## Tutorials
