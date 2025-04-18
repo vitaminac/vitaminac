@@ -139,10 +139,6 @@
 - [ ] [DeepMind x UCL: Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 - [ ] [Stanford CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
 
-## Books
-
-* [蘑菇书EasyRL](https://datawhalechina.github.io/easy-rl)
-
 # Large Language Models
 
 ## Tutorials
