@@ -63,9 +63,7 @@
 
 - [ ] [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 - [ ] [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
-- [ ] [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-errata-3rd-20110921.pdf)
 - [ ] [Probabilistic Machine Learning Book Series](https://probml.github.io/pml-book/)
-- [ ] [机器学习](https://book.douban.com/subject/26708119/)
 - [ ] [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book)
 - [ ] [Probabilistic Graphical Models: Principles and Techniques](https://mitpress.mit.edu/books/probabilistic-graphical-models)
 - [ ] [Foundations of Machine Learning](https://mitpress.mit.edu/9780262039406/foundations-of-machine-learning/)
