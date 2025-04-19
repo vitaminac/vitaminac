@@ -48,7 +48,7 @@
 - [x] [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [x] [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 - [x] [Kaggle: Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
-- [ ] [Stanford CS 229 Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning)
+- [ ] [Stanford CS 229 Cheatsheets](https://stanford.edu/~shervine/teaching/cs-229/)
 
 ## Courses
 
@@ -60,7 +60,6 @@
 
 ## Books
 
-- [ ] [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 - [ ] [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
 - [ ] [Probabilistic Machine Learning Book Series](https://probml.github.io/pml-book/)
 - [ ] [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book)
@@ -74,7 +73,7 @@
 
 - [x] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 - [ ] [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
-- [ ] [Stanford CS 230 Cheatsheets](https://github.com/afshinea/stanford-cs-230-deep-learning)
+- [ ] [Stanford CS 230 Cheatsheets](https://stanford.edu/~shervine/teaching/cs-230/)
 
 ## Courses
 
