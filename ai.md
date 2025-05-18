@@ -7,14 +7,6 @@
 - [ ] [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
 - [ ] Numerical Analysis
 
-# Statistical Learning
-
-## Books
-
-- [ ] [The Nature of Statistical Learning Theory](https://www.springer.com/gp/book/9780387987804)
-- [ ] [Statistical Learning Theory](https://www.wiley.com/en-us/Statistical+Learning+Theory-p-9780471030034)
-- [ ] [Python for Data Analysis](https://wesmckinney.com/book/)
-
 # Artificial Intelligence
 
 ## Courses
