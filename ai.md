@@ -4,7 +4,6 @@
 
 - [ ] [Numerical Recipes](http://numerical.recipes/)
 - [ ] [Numerical Optimization](https://link.springer.com/book/10.1007/978-0-387-40065-5)
-- [ ] [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
 - [ ] Numerical Analysis
 
 # Artificial Intelligence
