@@ -1,9 +1,3 @@
-# Operations Research
-
-## Books
-
-- [ ] [Introduction to Operations Research](https://www.mheducation.com/highered/product/Introduction-to-Operations-Research-Hillier.html)
-
 # Numerical Optimization
 
 ## Books
