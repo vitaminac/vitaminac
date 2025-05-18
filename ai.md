@@ -1,13 +1,3 @@
-# Mathematics
-
-## Courses
-
-- [x] [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
-
-## Books
-
-- [ ] [Mathematics for Machine Learning](https://mml-book.github.io/)
-
 # Operations Research
 
 ## Books
