@@ -29,14 +29,6 @@
 - [ ] [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus-fall2022.html)
 - [ ] [Stanford CS228: Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228)
 
-## Books
-
-- [ ] [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
-- [ ] [Probabilistic Machine Learning Book Series](https://probml.github.io/pml-book/)
-- [ ] [Probabilistic Graphical Models: Principles and Techniques](https://mitpress.mit.edu/books/probabilistic-graphical-models)
-- [ ] [Foundations of Machine Learning](https://mitpress.mit.edu/9780262039406/foundations-of-machine-learning/)
-- [ ] Probably Approximately Correct
-
 # Deep Learning
 
 ## Tutorials
