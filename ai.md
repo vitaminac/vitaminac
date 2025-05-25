@@ -10,7 +10,6 @@
 
 ## Courses
 
-- [x] [Coursera: AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [ ] [UC Berkeley CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188)
 - [ ] [Stanford CS221: Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/)
 
@@ -29,7 +28,6 @@
 - [ ] [Coursera: Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
 - [ ] [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus-fall2022.html)
 - [ ] [Stanford CS228: Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228)
-- [ ] [NTU by Hung-Yi Lee: Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)
 
 ## Books
 
