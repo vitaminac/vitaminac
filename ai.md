@@ -1,3 +1,10 @@
+- [ ] [UC Berkeley CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188)
+- [ ] [Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+- [x] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [ ] [Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.github.io/)
+- [ ] [Stanford CS230: Deep Learning](https://cs230.stanford.edu/lecture/)
+- [ ] [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus-fall2022.html)
+
 # Numerical Optimization
 
 ## Books
@@ -5,13 +12,6 @@
 - [ ] [Numerical Recipes](http://numerical.recipes/)
 - [ ] [Numerical Optimization](https://link.springer.com/book/10.1007/978-0-387-40065-5)
 - [ ] Numerical Analysis
-
-# Artificial Intelligence
-
-## Courses
-
-- [ ] [UC Berkeley CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188)
-- [ ] [Stanford CS221: Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/)
 
 # Machine Learning
 
@@ -24,9 +24,7 @@
 
 ## Courses
 
-- [ ] [Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - [ ] [Coursera: Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
-- [ ] [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus-fall2022.html)
 - [ ] [Stanford CS228: Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228)
 
 # Deep Learning
@@ -39,8 +37,6 @@
 
 ## Courses
 
-- [x] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-- [ ] [Stanford CS230: Deep Learning](https://cs230.stanford.edu/lecture/)
 - [ ] [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [ ] [fast.ai: Practical Deep Learning for Coders](https://course.fast.ai/)
 - [ ] [CMU: Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/)
@@ -48,10 +44,6 @@
 - [ ] [DeepMind x UCL: The Deep Learning Lecture](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020)
 
 # Computer Vision
-
-## Courses
-
-- [ ] [Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.github.io/)
 
 ## Books
 
