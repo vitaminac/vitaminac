@@ -35,7 +35,6 @@
 
 - [ ] [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
 - [ ] [Probabilistic Machine Learning Book Series](https://probml.github.io/pml-book/)
-- [ ] [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book)
 - [ ] [Probabilistic Graphical Models: Principles and Techniques](https://mitpress.mit.edu/books/probabilistic-graphical-models)
 - [ ] [Foundations of Machine Learning](https://mitpress.mit.edu/9780262039406/foundations-of-machine-learning/)
 - [ ] Probably Approximately Correct
