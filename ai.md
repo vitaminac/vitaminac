@@ -49,11 +49,6 @@
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 * [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
 
-## Projects
-
-* [video2x](https://github.com/k4yt3x/video2x)
-* [PaintsChainer](https://github.com/pfnet/PaintsChainer)
-
 # Natual Language Processing
 
 ## Tutorials
