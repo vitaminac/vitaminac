@@ -1,20 +1,3 @@
-# Roadmap
-
-* [MIT EECS Roadmaps](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/)
-* [Stanford Engineering Computer Science BS Program Sheet](https://www.cs.stanford.edu/bs-tracks-program-sheets)
-* [Stanford Engineering Computer Science MS Program Sheet](https://www.cs.stanford.edu/masters-specializations/ms-program-sheets)
-* [Stanford Computer Science (Bachelor of Science) - Program Overview](https://bulletin.stanford.edu/programs/CS-BS)
-* [Stanford EE-CS Courses](https://ee.stanford.edu/eecs)
-* [Harvard CS Courses](https://harvardcs.info/concentration/courses/)
-* [CMU CS Curriculum](https://www.csd.cs.cmu.edu/academics/undergraduate/requirements)
-* [CMU B.S. AI Curriculum](https://www.cs.cmu.edu/bs-in-artificial-intelligence/curriculum)
-* [Berkeley Undergraduate Computer Science Courses](http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext)
-* [Berkeley Graduate Computer Science Courses](http://guide.berkeley.edu/graduate/degree-programs/computer-science/#coursestext)
-* [Illinois B.S. in Computer Science](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science)
-* [Illinois Master in Computer Science](https://cs.illinois.edu/academics/graduate/ms-program)
-* [Oxford CS Courses](https://www.cs.ox.ac.uk/teaching/courses/)
-* [Cambridge CS Courses](https://www.cl.cam.ac.uk/teaching/2021/)
-
 # Introduction
 
 - [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
