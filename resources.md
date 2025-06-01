@@ -49,10 +49,6 @@
 - [ ] [Cracking the Coding Interview 6th: 189 programming interview questions and answers](https://www.crackingthecodinginterview.com)
 - [ ] 编程之美
 
-# Security
-
-- [x] 白帽子讲Web安全
-
 # Network
 
 - [ ] [Computer Networking: a Top Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)
