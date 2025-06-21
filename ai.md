@@ -17,9 +17,6 @@
 
 ## Tutorials
 
-- [x] [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
-- [x] [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
-- [x] [Kaggle: Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
 - [ ] [Stanford CS 229 Cheatsheets](https://stanford.edu/~shervine/teaching/cs-229/)
 
 ## Courses
