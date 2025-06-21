@@ -49,7 +49,6 @@
 
 ## Tutorials
 
-- [ ] [Scikit-learn: Text Feature Extraction](https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction)
 - [ ] [NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
 
 ## Courses
