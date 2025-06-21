@@ -38,7 +38,6 @@
 - [ ] [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
 - [ ] [The Algorithm Design Manual](http://www.algorist.com/)
 - [ ] The Art of Multiprocessor Programming
-- [ ] [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
 - [ ] [Algorithms in C](https://www.amazon.com/dp/0201314525)
 - [ ] [Data Structures and Algorithms in Java](https://www.amazon.com/dp/1118771338)
 - [ ] [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
