@@ -38,13 +38,6 @@
 - [ ] [CMU 10-414/714: Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
 - [ ] [DeepMind x UCL: The Deep Learning Lecture](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020)
 
-# Computer Vision
-
-## Books
-
-* [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
-* [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
-
 # Natual Language Processing
 
 ## Tutorials
