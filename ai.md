@@ -49,12 +49,6 @@
 - [ ] [Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [ ] [Stanford CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 
-## Books
-
-* [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
-* [Speech and Language Processing](https://home.cs.colorado.edu/~martin/slp.html)
-* [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
-
 ## Projects
 
 * [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
