@@ -5,13 +5,6 @@
 - [ ] [Stanford CS230: Deep Learning](https://cs230.stanford.edu/lecture/)
 - [ ] [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus-fall2022.html)
 
-# Numerical Optimization
-
-## Books
-
-- [ ] [Numerical Recipes](http://numerical.recipes/)
-- [ ] Numerical Analysis
-
 # Machine Learning
 
 ## Tutorials
