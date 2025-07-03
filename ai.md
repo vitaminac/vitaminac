@@ -7,21 +7,12 @@
 
 # Machine Learning
 
-## Tutorials
-
-- [ ] [Stanford CS 229 Cheatsheets](https://stanford.edu/~shervine/teaching/cs-229/)
-
 ## Courses
 
 - [ ] [Coursera: Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
 - [ ] [Stanford CS228: Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228)
 
 # Deep Learning
-
-## Tutorials
-
-- [ ] [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
-- [ ] [Stanford CS 230 Cheatsheets](https://stanford.edu/~shervine/teaching/cs-230/)
 
 ## Courses
 
