@@ -41,12 +41,6 @@
 
 - [ ] [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
 
-## Courses
-
-- [ ] [UC Berkeley CS285/294 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
-- [ ] [DeepMind x UCL: Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
-- [ ] [Stanford CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
-
 # Large Language Models
 
 ## Tutorials
