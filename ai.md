@@ -61,13 +61,6 @@
 - [ ] [Cohere: LLM University - Large Language Models](https://cohere.com/llmu)
 - [ ] [LLM101n](https://github.com/karpathy/LLM101n)
 
-## Courses
-
-- [ ] [Coursera: Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
-- [ ] [Stanford CS25: Transformers](https://web.stanford.edu/class/cs25/)
-- [ ] [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2023/)
-- [ ] [DeepLearning.AI: LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
-
 ## Books
 
 - [ ] [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
