@@ -4,13 +4,13 @@
 - [ ] [UC Berkeley CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188)
 - [ ] [Stanford CS230: Deep Learning](https://cs230.stanford.edu/lecture/)
 - [ ] [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus-fall2022.html)
+- [ ] [Coursera: Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
 
 # Machine Learning
 
 ## Courses
 
 - [ ] [Coursera: Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
-- [ ] [Stanford CS228: Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228)
 
 # Deep Learning
 
