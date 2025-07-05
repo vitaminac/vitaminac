@@ -1,3 +1,4 @@
+- [ ] [Coursera: AI Python for Beginners](https://www.coursera.org/learn/ai-python-for-beginners)
 - [ ] [Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - [x] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 - [x] [DeepLearning.AI: ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
