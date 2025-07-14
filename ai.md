@@ -51,10 +51,6 @@
 - [ ] [Cohere: LLM University - Large Language Models](https://cohere.com/llmu)
 - [ ] [LLM101n](https://github.com/karpathy/LLM101n)
 
-## Books
-
-- [ ] [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
-
 ## Projects
 
 * [LLM实战](https://github.com/liguodongiot/llm-action)
