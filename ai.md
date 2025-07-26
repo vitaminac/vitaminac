@@ -13,13 +13,12 @@
 
 # Deep Learning
 
-## Courses
-
+- [ ] [UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 - [ ] [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [ ] [fast.ai: Practical Deep Learning for Coders](https://course.fast.ai/)
 - [ ] [CMU: Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/)
 - [ ] [CMU 10-414/714: Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
-- [ ] [DeepMind x UCL: The Deep Learning Lecture](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020)
+- [ ] [DeepMind x UCL: The Deep Learning Lecture](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 
 # Natual Language Processing
 
