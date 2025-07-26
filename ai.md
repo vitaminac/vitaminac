@@ -13,7 +13,6 @@
 
 # Deep Learning
 
-- [ ] [UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 - [ ] [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [ ] [fast.ai: Practical Deep Learning for Coders](https://course.fast.ai/)
 - [ ] [CMU: Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/)
