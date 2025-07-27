@@ -7,7 +7,6 @@
 - [ ] [Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.github.io/)
 - [ ] [UC Berkeley CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188)
 - [ ] [Stanford CS230: Deep Learning](https://cs230.stanford.edu/lecture/)
-- [ ] [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus-fall2022.html)
 - [ ] [Coursera: Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
 
 # Deep Learning
