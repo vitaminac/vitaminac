@@ -8,6 +8,7 @@
 - [ ] [UC Berkeley CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188)
 - [ ] [Stanford CS230: Deep Learning](https://cs230.stanford.edu/lecture/)
 - [ ] [Coursera: Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
+- [ ] [Hugging Face: NLP Course](https://huggingface.co/learn/nlp-course)
 
 # Deep Learning
 
@@ -37,16 +38,3 @@
 ## Tutorials
 
 - [ ] [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
-
-# Large Language Models
-
-## Tutorials
-
-- [ ] [Hugging Face: NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
-- [ ] [Hugging Face: Conceptual Guides of Transformer](https://huggingface.co/docs/transformers/philosophy)
-- [ ] [Cohere: LLM University - Large Language Models](https://cohere.com/llmu)
-- [ ] [LLM101n](https://github.com/karpathy/LLM101n)
-
-## Projects
-
-* [LLM实战](https://github.com/liguodongiot/llm-action)
