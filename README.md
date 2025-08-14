@@ -1,6 +1,6 @@
 Hi everyone 👋!
 
-I’m currently working as a software engineer 👨‍💻 at Amazon. I'm actively developing my skills to become an even better programmer 💪. Over the past few years, I’ve earned [several certifications](https://www.linkedin.com/in/shuxig/details/certifications/), and I'm continuously expanding my knowledge in the field. I am now learning deep learning and diving into some [recommended resources](ai.md) to explore its potential to transform industries.
+I’m currently working as a software engineer 👨‍💻 at Amazon. I'm actively developing my skills to become an even better programmer 💪. Over the past few years, I’ve earned [several certifications](https://www.linkedin.com/in/shuxig/details/certifications/), and I'm continuously expanding my knowledge in the field. I am now studying deep learning and diving into some [recommended resources](ai.md) to explore its potential to transform industries.
 
 Beyond programming, I’m passionate about reading 📖, particularly in the areas of philosophy, physics, history and economics. Exploring books in these fields brings fresh insights that inspire my personal and professional growth.
 
