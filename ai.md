@@ -28,8 +28,11 @@
 
 * Artificial Intelligence
   - [ ] [UC Berkeley CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188)
+  - [ ] [Microsoft: AI for Beginners](https://microsoft.github.io/AI-For-Beginners/)
 * Machine Learning
   - [ ] [Coursera: Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
+  - [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+  - [ ] [Microsoft: Machine Learning for Beginners](https://microsoft.github.io/ML-For-Beginners/)
 * Deep Learning
   - [ ] [Stanford CS230: Deep Learning](https://cs230.stanford.edu/lecture/)
   - [ ] [Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.github.io/)
@@ -49,3 +52,4 @@
   - [x] [DeepLearning.AI: ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
   - [ ] [DeepLearning.AI: Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
   - [ ] [Coursera: Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
+  - [ ] [Microsoft: Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
