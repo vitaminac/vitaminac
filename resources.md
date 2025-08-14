@@ -32,16 +32,6 @@
 - [ ] [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)
 - [ ] [The Architecture of Open Source Applications](http://aosabook.org/)
 
-# Algorithms
-
-- [ ] [Algorithms](https://algs4.cs.princeton.edu/home/)
-- [ ] [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
-- [ ] [The Algorithm Design Manual](http://www.algorist.com/)
-- [ ] The Art of Multiprocessor Programming
-- [ ] [Algorithms in C](https://www.amazon.com/dp/0201314525)
-- [ ] [Data Structures and Algorithms in Java](https://www.amazon.com/dp/1118771338)
-- [ ] [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
-
 # Interview
 
 - [x] 剑指Offer: 名企面试官精讲典型编程题
