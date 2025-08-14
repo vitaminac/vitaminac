@@ -14,6 +14,7 @@
 
 - [ ] [MITx Online: Differential Calculus](https://mitxonline.mit.edu/programs/program-v1:MITxT+18.01x/)
 - [ ] [MITx Online: Multivariable Calculus 1: Vectors and Derivatives](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.02.1x/)
+- [ ] [HarvardX: Introduction to Probability](https://stat110.hsites.harvard.edu/)
 
 # Deep Learning
 
