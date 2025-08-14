@@ -3,10 +3,15 @@
 ## Prerequisites
 
 * Mathematics
-  - [ ] [MITx Online: Differential Calculus](https://mitxonline.mit.edu/programs/program-v1:MITxT+18.01x/)
-  - [ ] [MITx Online: Multivariable Calculus 1: Vectors and Derivatives](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.02.1x/)
-  - [ ] [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)
-  - [ ] [HarvardX: Introduction to Probability](https://stat110.hsites.harvard.edu/)
+  * Calculus
+    - [ ] [MITx Online: Differential Calculus](https://mitxonline.mit.edu/programs/program-v1:MITxT+18.01x/)
+    - [ ] [MITx Online: Multivariable Calculus 1: Vectors and Derivatives](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.02.1x/)
+  * Linear Algebra
+    - [ ] [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)
+    - [ ] [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+    - [ ] [Linear Algebra Done Right](https://linear.axler.net/)
+  * Statistics and Probability
+    - [ ] [HarvardX: Introduction to Probability](https://stat110.hsites.harvard.edu/)
 * Computer Science and Python Programming
   - [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   - [ ] [Coursera: AI Python for Beginners](https://www.coursera.org/learn/ai-python-for-beginners)
