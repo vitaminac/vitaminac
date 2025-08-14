@@ -8,6 +8,15 @@
 - [ ] [UC Berkeley CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188)
 - [ ] [Stanford CS230: Deep Learning](https://cs230.stanford.edu/lecture/)
 - [ ] [Coursera: Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
+
+
+# Mathematics
+
+- [ ] [MITx Online: Differential Calculus](https://mitxonline.mit.edu/programs/program-v1:MITxT+18.01x/)
+- [ ] [MITx Online: Multivariable Calculus 1: Vectors and Derivatives](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.02.1x/)
+
+# Deep Learning
+
 - [ ] [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [ ] [fast.ai: Practical Deep Learning for Coders](https://course.fast.ai/)
 - [ ] [CMU: Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/)
