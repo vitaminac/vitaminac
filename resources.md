@@ -14,9 +14,3 @@
 - [ ] [Java SE Specifications](https://docs.oracle.com/javase/specs/index.html)
 - [ ] [Java Concurrency in Practice](https://jcip.net/)
 - [ ] Code Complete
-
-# Interview
-
-- [x] 剑指Offer: 名企面试官精讲典型编程题
-- [ ] [Cracking the Coding Interview 6th: 189 programming interview questions and answers](https://www.crackingthecodinginterview.com)
-- [ ] 编程之美
