@@ -47,6 +47,7 @@
   - [ ] [NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
   - [ ] [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
 * Reinforcement Learning
+  - [ ] [Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234/)
   - [ ] [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
 * Large Language Model
   - [x] [DeepLearning.AI: ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
