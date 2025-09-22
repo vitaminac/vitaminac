@@ -35,7 +35,7 @@
   - [ ] [Microsoft: Machine Learning for Beginners](https://microsoft.github.io/ML-For-Beginners/)
 * Deep Learning
   - [ ] [Stanford CS230: Deep Learning](https://cs230.stanford.edu/lecture/)
-  - [ ] [Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.github.io/)
+  - [ ] [Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
   - [ ] [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
   - [ ] [fast.ai: Practical Deep Learning for Coders](https://course.fast.ai/)
   - [ ] [CMU: Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/)
