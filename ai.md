@@ -10,7 +10,6 @@
     - [ ] [edX: Introductory Linear Algebra](https://www.edx.org/certificates/professional-certificate/gtx-introductory-linear-algebra)
     - [ ] [edX: Applications of Linear Algebra](https://www.edx.org/certificates/professional-certificate/gtx-applications-of-linear-algebra)
     - [ ] [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/1553/)
-    - [ ] [Linear Algebra Done Right](https://linear.axler.net/)
   * Statistics and Probability
     - [ ] [HarvardX: Introduction to Probability](https://stat110.hsites.harvard.edu/)
   - [x] [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
