@@ -30,10 +30,13 @@
   - [ ] [UC Berkeley CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188)
   - [ ] [Microsoft: AI for Beginners](https://microsoft.github.io/AI-For-Beginners/)
 * Machine Learning
+  - [ ] [scikit-learn's User Guide](https://scikit-learn.org/stable/user_guide.html)
   - [ ] [Coursera: Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
   - [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
   - [ ] [Microsoft: Machine Learning for Beginners](https://microsoft.github.io/ML-For-Beginners/)
 * Deep Learning
+  - [ ] [PyTorch's Introduction](https://docs.pytorch.org/tutorials/intro.html)
+  - [ ] [PyTorch's Examples](https://docs.pytorch.org/examples/)
   - [ ] [Stanford CS230: Deep Learning](https://cs230.stanford.edu/lecture/)
   - [ ] [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
   - [ ] [fast.ai: Practical Deep Learning for Coders](https://course.fast.ai/)
