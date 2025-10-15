@@ -12,8 +12,6 @@
     - [ ] [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/1553/)
   * Statistics and Probability
     - [ ] [HarvardX: Introduction to Probability](https://stat110.hsites.harvard.edu/)
-  - [x] [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
-  - [ ] [Mathematics for Machine Learning](https://mml-book.github.io/) 
 * Computer Science and Python Programming
   - [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   - [ ] [Coursera: AI Python for Beginners](https://www.coursera.org/learn/ai-python-for-beginners)
