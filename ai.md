@@ -54,8 +54,7 @@
   - [ ] [Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234/)
 * Large Language Model
   - [ ] [Stanford CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/)
-  - [x] [DeepLearning.AI: ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-  - [ ] [DeepLearning.AI: Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+  - [ ] [Andrej Karpathy: Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
   - [ ] [HuggingFace LLM Course](https://huggingface.co/learn/llm-course)
   - [ ] [Coursera: Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
   - [ ] [Microsoft: Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
