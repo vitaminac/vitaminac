@@ -57,5 +57,6 @@
   - [ ] [Stanford CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/)
   - [x] [DeepLearning.AI: ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
   - [ ] [DeepLearning.AI: Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+  - [ ] [HuggingFace LLM Course](https://huggingface.co/learn/llm-course)
   - [ ] [Coursera: Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
   - [ ] [Microsoft: Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
