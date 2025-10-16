@@ -52,7 +52,6 @@
   - [ ] [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
 * Reinforcement Learning
   - [ ] [Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234/)
-  - [ ] [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
 * Large Language Model
   - [ ] [Stanford CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/)
   - [x] [DeepLearning.AI: ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
