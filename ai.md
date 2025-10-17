@@ -56,5 +56,7 @@
   - [ ] [Stanford CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/)
   - [ ] [Andrej Karpathy: Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
   - [ ] [HuggingFace LLM Course](https://huggingface.co/learn/llm-course)
+  - [ ] [HuggingFace Agents Course](https://huggingface.co/learn/agents-course/)
+  - [ ] [DeepLearning.AI: Agentic AI](https://www.deeplearning.ai/courses/agentic-ai/)
   - [ ] [Coursera: Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
   - [ ] [Microsoft: Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
